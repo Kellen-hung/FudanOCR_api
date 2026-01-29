@@ -8,6 +8,7 @@ Download link of the models
 3. final_model is for Chinese recognition, while mnist_cnn is for digital recognition
 4. final_model will be updated after cram school completes the material preparation and fine-tuning.
 
+## Deploy
 ### using miniconda
 ```bash=
 conda env create -f myenv.yml
