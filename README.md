@@ -29,3 +29,5 @@ nohup python api.py > ./logs/ocr.log 2>&1 &
 ```bash=
 curl -X POST http://IP:port/ocr -H "Content-Type: application/json" -d @./test/input_2.json > ./test/output_2.json
 ```
+
+### 後期應該會改用 systemd! (待)
