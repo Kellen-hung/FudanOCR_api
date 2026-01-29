@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+
+# Dataset / checkpoints
+data/
+datasets/
+outputs/
+runs/
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+
+# Logs
+*.log
+logs/
+wandb/
+
+# Conda / pip cache
+*.egg-info/
+pip-wheel-metadata/
+conda_env/
+
+# System files
+.DS_Store
+Thumbs.db
+
