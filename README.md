@@ -1,6 +1,6 @@
 # The api version of FudanOCR
 
-Download link of the models
+[Download link of the models](https://drive.google.com/drive/folders/16KQZJ6ym7BUJ20EPYJq_tv2jxyOukNbI?usp=sharing)
 
 ### infomation
 1. data/radical_all_Chinese_2.txt <-> models/adult_pre_train_model.pth
