@@ -12,7 +12,6 @@ venv/
 .vscode/
 
 # Dataset / checkpoints
-data/
 datasets/
 outputs/
 runs/
